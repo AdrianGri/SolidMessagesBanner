@@ -1,0 +1,9 @@
+Package: com.adriandev.solidmessagesbanner
+Name: SolidMessagesBanner
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Removes transparency on the messages banner
+Maintainer: AdrianDev
+Author: AdrianDev
+Section: Tweaks
